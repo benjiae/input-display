@@ -1,7 +1,7 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 draw_set_font(JBM)
-if keyboard_check_direct(ord("R")) {
+if keyboard_check_direct(ord("R")){
 	image_blend = make_color_rgb(147, 153, 178)
 } else {
 	image_blend = make_color_rgb(205, 214, 244)
