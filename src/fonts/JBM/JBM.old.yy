@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Iosevka",
+  "%Name":"JBM",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":45,
@@ -120,7 +120,7 @@
   "last":0,
   "lineHeight":63,
   "maintainGms1Font":false,
-  "name":"Iosevka",
+  "name":"JBM",
   "parent":{
     "name":"Fuentes",
     "path":"folders/Fuentes.yy",

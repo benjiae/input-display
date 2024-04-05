@@ -18,7 +18,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"JBM","order":1,"path":"fonts/JBM/JBM.yy",},
-    {"name":"JBMSmall","order":2,"path":"fonts/JBMSmall/JBMSmall.yy",},
     {"name":"CtrlKey","order":8,"path":"objects/CtrlKey/CtrlKey.yy",},
     {"name":"DownKey","order":1,"path":"objects/DownKey/DownKey.yy",},
     {"name":"Global","order":9,"path":"objects/Global/Global.yy",},
@@ -27,8 +26,8 @@
     {"name":"RKey","order":7,"path":"objects/RKey/RKey.yy",},
     {"name":"RShiftKey","order":6,"path":"objects/RShiftKey/RShiftKey.yy",},
     {"name":"UpKey","order":2,"path":"objects/UpKey/UpKey.yy",},
-    {"name":"ZKey","order":4,"path":"objects/ZKey/ZKey.yy",},
     {"name":"XKey","order":10,"path":"objects/XKey/XKey.yy",},
+    {"name":"ZKey","order":4,"path":"objects/ZKey/ZKey.yy",},
     {"name":"Touhou","order":1,"path":"rooms/Touhou/Touhou.yy",},
   ],
 }

@@ -1,4 +1,4 @@
-/// @description Inserte aquí la descripción
+/// @description uhhh
 // Puede escribir su código en este editor
 
 if keyboard_check_pressed(ord("1")) {
@@ -22,10 +22,12 @@ if room == IWBTG {
 		lshift_pressed = 0	
 	}
 
+
+
 	if keyboard_check_direct(vk_rshift) {
 		if rshift_pressed = 1 {
 			rshift_time ++
-		} else if lshift_pressed = 0 {
+		} else if rshift_pressed = 0 {
 			rshift_pressed = 1
 			rshift_time = 0
 		}
@@ -33,4 +35,5 @@ if room == IWBTG {
 	if !keyboard_check_direct(vk_rshift) {
 		rshift_pressed = 0	
 	}
+
 }

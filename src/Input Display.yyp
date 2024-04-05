@@ -35,7 +35,6 @@
   "name":"Input Display",
   "resources":[
     {"id":{"name":"JBM","path":"fonts/JBM/JBM.yy",},},
-    {"id":{"name":"JBMSmall","path":"fonts/JBMSmall/JBMSmall.yy",},},
     {"id":{"name":"CtrlKey","path":"objects/CtrlKey/CtrlKey.yy",},},
     {"id":{"name":"DownKey","path":"objects/DownKey/DownKey.yy",},},
     {"id":{"name":"Global","path":"objects/Global/Global.yy",},},
@@ -45,8 +44,8 @@
     {"id":{"name":"RKey","path":"objects/RKey/RKey.yy",},},
     {"id":{"name":"RShiftKey","path":"objects/RShiftKey/RShiftKey.yy",},},
     {"id":{"name":"UpKey","path":"objects/UpKey/UpKey.yy",},},
-    {"id":{"name":"ZKey","path":"objects/ZKey/ZKey.yy",},},
     {"id":{"name":"XKey","path":"objects/XKey/XKey.yy",},},
+    {"id":{"name":"ZKey","path":"objects/ZKey/ZKey.yy",},},
     {"id":{"name":"IWBTG","path":"rooms/IWBTG/IWBTG.yy",},},
     {"id":{"name":"Touhou","path":"rooms/Touhou/Touhou.yy",},},
     {"id":{"name":"spr128","path":"sprites/spr128/spr128.yy",},},

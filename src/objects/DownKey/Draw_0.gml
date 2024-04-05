@@ -4,13 +4,13 @@
 draw_set_font(JBM)
 
 if keyboard_check_direct(vk_down) {
-	image_blend = make_color_rgb(147, 153, 178)
+	image_blend = global.gray
 } else {
-	image_blend = make_color_rgb(205, 214, 244)
+	image_blend = global.white
 }
 
 draw_self()
 
 draw_set_halign(fa_center)
-draw_set_color(make_color_rgb(30,30,46))
-draw_text(x+(sprite_width/2),y+64,"↓")
+draw_set_color(global.black)
+draw_text(x+(sprite_width/2),y+sprite_height/2,"↓")
